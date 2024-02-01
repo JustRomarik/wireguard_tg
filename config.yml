@@ -1,0 +1,7 @@
+server_address: "111.111.111.111"
+telegram_token: "aaaaaaaaaaaaa"
+telegram_id_allowed: 123456
+wireguard_publickey: "bbbbbbbbbbbbbbbbbbb"
+wireguard_config_path: ""
+wireguard_service_name: ""
+wireguard_port: "51456"
